@@ -1,4 +1,4 @@
-A voir : https://www.youtube.com/watch?v=WTnxE0wjZaM
+# A voir : The Future of Deep Learning Research by Siraj Raval https://www.youtube.com/watch?v=WTnxE0wjZaM
 
 Notes sur la vidéos 
 
