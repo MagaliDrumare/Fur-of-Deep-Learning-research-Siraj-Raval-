@@ -27,7 +27,8 @@ Auto-Encoder
 -Algorithm most popular for Generation : 
 GAN Generative Adversarial Network.
 Variational Autoencoder inside of the layer random variable. 
-DNC Differientiable Neuron Computer seprating the memory from the neural itself. But is with Backpropagation!!!!!
+DNC Differientiable Neuron Computer seprating the memory from the neural itself. 
+But is with Backpropagation!!!!!
 
 
 
