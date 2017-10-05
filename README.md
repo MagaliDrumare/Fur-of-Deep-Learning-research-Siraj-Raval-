@@ -2,6 +2,7 @@ A voir : https://www.youtube.com/watch?v=WTnxE0wjZaM
 
 Notes sur la vidéos 
 
+```
 > From the beginning to 15'23 : Back Propagation 
 -Linear algebra allows the multiplcation groups of numbers. Matrix. 
 -Foward propagation : Input * weight + bias then activate 
@@ -40,4 +41,5 @@ Do not use back propagation
 7-Better Hardware (Neuromorphics chips IBM, TPU tensor Processing Units)
 
 > Explotation and Exploration.....focus on more on Exploration!!!! 
+```
 
