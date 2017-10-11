@@ -1,6 +1,6 @@
 # A voir : The Future of Deep Learning Research by Siraj Raval https://www.youtube.com/watch?v=WTnxE0wjZaM
 
-Notes sur la vidéos 
+Notes sur la vidéo
 
 ```
 > From the beginning to 15'23 : Back Propagation 
